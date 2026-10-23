@@ -13,7 +13,7 @@ request.
 ## Selected projects
 
 ### ScanDex: computer vision and machine learning for trading cards
-*Co-founder. Private repository.*
+*Co-founder. In beta. Private repository.*
 
 A platform that grades trading-card condition from a photograph and prices the card against live
 market comparables. It ships as a Next.js web app, a Manifest V3 Chrome extension and an Expo iOS
