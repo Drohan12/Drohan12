@@ -31,7 +31,7 @@ app, backed by Python services and a versioned grading contract.
 *Stack:* Python, FastAPI, PyTorch, XGBoost, OpenCV, TypeScript, Next.js, React, Expo, Supabase,
 Turborepo.
 
-### slot-oracle: an independent test oracle for scheduling systems
+### Oracle: an independent test oracle for scheduling systems
 *Private repository, CI-tested.*
 
 Computes exactly which meeting times are legal under a set of constraints, so a scheduler can be
